@@ -1,0 +1,22 @@
+/*Esto es un comentario en css*/
+/*Acceder por nombre de etiqueta*/
+p{
+    background-color:yellow;
+    color:white;
+    font-size: 100px;
+    height:500px;
+    width:500px;
+    padding:100px;
+    margin:100px;
+}
+/*Acceder por nombre de clase*/
+.nombre_personalizado{
+    background-color: red;
+    color:black;
+    font-size: 50px;
+}
+.otra_clase{
+    background-color: blue;
+    color:black;
+    font-size: 200px;
+}
